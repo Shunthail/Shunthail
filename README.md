@@ -10,7 +10,7 @@ Dans le cadre de mes études, je suis actuellement en stage chez **Orange Cyberd
 
 ## 💼 Rôles actuels
 
-[![Orange Cyberdefense](https://img.shields.io/badge/Orange_Cyberdefense-Ingénieur_sécurité_web-FF7900?style=for-the-badge&logo=orange&logoColor=white&labelColor=FF7900&color=555555)](https://orangecyberdefense.com) [![Hacker freelance](https://img.shields.io/badge/Hacker_freelance-555555?style=for-the-badge&logoColor=white)]() [![Développeur freelance](https://img.shields.io/badge/Développeur_freelance-555555?style=for-the-badge&logoColor=white)]() [![Graphiste freelance](https://img.shields.io/badge/Graphiste_freelance-555555?style=for-the-badge&logoColor=white)]()
+[![Orange Cyberdefense](https://img.shields.io/badge/Orange_Cyberdefense-Ingénieur_sécurité_web-FF7900?style=for-the-badge&logo=orange&logoColor=white&labelColor=FF7900&color=555555)](https://orangecyberdefense.com) [![Hacker freelance](https://img.shields.io/badge/Hacker_freelance-555555?style=for-the-badge&logoColor=white)]() [![Développeur freelance](https://img.shields.io/badge/Développeur_freelance-555555?style=for-the-badge&logoColor=white)]()
 
 
 ## 🛠️ Compétences techniques
