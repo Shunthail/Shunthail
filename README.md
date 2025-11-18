@@ -1,16 +1,16 @@
 # 👋🏼 Salut, je suis Shunthail
 
-Étudiant spécialisé en cybersécurité et développement full-stack, je conçois des solutions robustes et sécurisées, alliant expertise technique et rigueur dans chaque projet.  
-Dans le cadre de mes études, je suis actuellement en stage chez **Orange Cyberdefense**, où je continue de développer mes compétences.  
+Étudiant spécialisé en cybersécurité et développement full-stack, je conçois des solutions robustes et sécurisées, alliant expertise technique et rigueur dans chaque projet.   
 > _Jack of all trades, master of none._
 
 
-## 🌐 Mon site web
+## 🌐 Mes sites web
 [![Portfolio](https://img.shields.io/badge/Portfolio-www.shunthail.fr-1E3A8A?style=for-the-badge&logo=web&logoColor=white)](https://www.shunthail.fr)
+[![Gaming](https://img.shields.io/badge/Gaming-www.me.shunthail.fr-1E3A8A?style=for-the-badge&logo=web&logoColor=white)](https://www.me.shunthail.fr)
 
 ## 💼 Rôles actuels
 
-[![Orange Cyberdefense](https://img.shields.io/badge/Orange_Cyberdefense-Ingénieur_sécurité_web-FF7900?style=for-the-badge&logo=orange&logoColor=white&labelColor=FF7900&color=555555)](https://orangecyberdefense.com) [![Hacker freelance](https://img.shields.io/badge/Hacker_freelance-555555?style=for-the-badge&logoColor=white)]() [![Développeur freelance](https://img.shields.io/badge/Développeur_freelance-555555?style=for-the-badge&logoColor=white)]()
+[![Pentester freelance](https://img.shields.io/badge/Pentester_freelance-555555?style=for-the-badge&logoColor=white)]() [![Développeur freelance](https://img.shields.io/badge/Développeur_freelance-555555?style=for-the-badge&logoColor=white)]()
 
 
 ## 🛠️ Compétences techniques
