@@ -5,8 +5,8 @@
 
 
 ## 🌐 Mes sites web
-[![Portfolio](https://img.shields.io/badge/Portfolio-www.shunthail.fr-1E3A8A?style=for-the-badge&logo=web&logoColor=white)](https://www.shunthail.fr)
-[![Gaming](https://img.shields.io/badge/Gaming-www.me.shunthail.fr-1E3A8A?style=for-the-badge&logo=web&logoColor=white)](https://me.shunthail.fr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shunthail.fr-1E3A8A?style=for-the-badge&logo=web&logoColor=white)](https://www.shunthail.fr)
+[![Gaming](https://img.shields.io/badge/Gaming-me.shunthail.fr-1E3A8A?style=for-the-badge&logo=web&logoColor=white)](https://me.shunthail.fr)
 
 ## 💼 Rôles actuels
 
