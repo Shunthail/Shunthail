@@ -68,4 +68,4 @@
 ### 🔐 Plateformes de hacking
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/222280)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%5B0x8%5D%5BHACKER%5D-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Shunthail)
-[![Root-Me](https://img.shields.io/badge/Root--Me-Insider-b92524?style=for-the-badge&logo=rootme&logoColor=white)](https://www.root-me.org/Shunthail)
+[![Root-Me](https://img.shields.io/badge/Root--Me-Enthusiast-b92524?style=for-the-badge&logo=rootme&logoColor=white)](https://www.root-me.org/Shunthail)
